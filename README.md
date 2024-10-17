@@ -1,5 +1,5 @@
-<h1 align="center">Hello!</h1>
-<h3 align="center">I'm a master's student in Bergen, Norway</h3>
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center">I'm a master's student in Bergen, Norway. Check out my website!</h3>
 </p>
 
 <h3 align="left">Some of the tools I use:</h3>
